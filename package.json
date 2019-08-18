@@ -1,0 +1,14 @@
+{
+  "name": "eotheme",
+  "version": "0.0.1",
+  "license": "GPL-3.0",
+  "private": true,
+  "devDependencies": {},
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "undefined",
+    "url": "git@github.com:undefined/undefined.git"
+  }
+}
